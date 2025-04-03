@@ -70,12 +70,12 @@ This AI-powered resume screening system automates candidate shortlisting, helpin
 
 ## 🚀 Usage
 
--1️⃣ Upload a resume (**PDF, DOCX, TXT**) via the interface or specify a file path.
--2️⃣ The system extracts **skills, education, and experience**.
--3️⃣ The classifier assigns a **job category** based on the extracted details.
--4️⃣ Recruiters provide a **job description**.
--5️⃣ The system ranks the **most suitable candidates** based on the similarity score.
--6️⃣ Recruiters can **download candidate resumes**.
+- 1️⃣ Upload a resume (**PDF, DOCX, TXT**) via the interface or specify a file path.
+- 2️⃣ The system extracts **skills, education, and experience**.
+- 3️⃣ The classifier assigns a **job category** based on the extracted details.
+- 4️⃣ Recruiters provide a **job description**.
+- 5️⃣ The system ranks the **most suitable candidates** based on the similarity score.
+- 6️⃣ Recruiters can **download candidate resumes**.
 
 ---
 

@@ -70,12 +70,12 @@ This AI-powered resume screening system automates candidate shortlisting, helpin
 
 ## 🚀 Usage
 
-1️⃣ Upload a resume (**PDF, DOCX, TXT**) via the interface or specify a file path.
-2️⃣ The system extracts **skills, education, and experience**.
-3️⃣ The classifier assigns a **job category** based on the extracted details.
-4️⃣ Recruiters provide a **job description**.
-5️⃣ The system ranks the **most suitable candidates** based on the similarity score.
-6️⃣ Recruiters can **download candidate resumes**.
+-1️⃣ Upload a resume (**PDF, DOCX, TXT**) via the interface or specify a file path.
+-2️⃣ The system extracts **skills, education, and experience**.
+-3️⃣ The classifier assigns a **job category** based on the extracted details.
+-4️⃣ Recruiters provide a **job description**.
+-5️⃣ The system ranks the **most suitable candidates** based on the similarity score.
+-6️⃣ Recruiters can **download candidate resumes**.
 
 ---
 
@@ -117,21 +117,21 @@ AI-Resume-Matching-System/
 ## Comapany Side
 
 ### 🔹 Job Description Input
-![Job Description Input]([path/to/resume_upload_image.png](https://github.com/Krutikagadge/AI-Resume-Matching-System/blob/master/UI_Images/Job_Description1.jpg))
+![Job Description Input](https://github.com/Krutikagadge/AI-Resume-Matching-System/blob/master/UI_Images/Job_Description1.jpg))
 
 ### 🔹 Candidate Matching Results
-![Matching Results]([path/to/matching_results_image.png](https://github.com/Krutikagadge/AI-Resume-Matching-System/blob/master/UI_Images/Job_Description2.jpg))
+![Matching Results](https://github.com/Krutikagadge/AI-Resume-Matching-System/blob/master/UI_Images/Job_Description2.jpg))
 
 ## Candidate Side
 
 ### 🔹 Resume Upload
-![Resume_Upload]([path/to/job_description_input_image.png](https://github.com/Krutikagadge/AI-Resume-Matching-System/blob/master/UI_Images/Resume_Analysis1.jpg))
+![Resume_Upload](https://github.com/Krutikagadge/AI-Resume-Matching-System/blob/master/UI_Images/Resume_Analysis1.jpg))
 
 ### 🔹 Resume Analysis
-![Resume Analysis]([path/to/final_ranking_image.png](https://github.com/Krutikagadge/AI-Resume-Matching-System/blob/master/UI_Images/Resume_Analysis2.jpg))
+![Resume Analysis](https://github.com/Krutikagadge/AI-Resume-Matching-System/blob/master/UI_Images/Resume_Analysis2.jpg))
 
 ### 🔹 Skills Extraction & Recommendation
-![Skills Extraction & Recommendation]([https://github.com/Krutikagadge/AI-Resume-Matching-System/blob/master/UI_Images/Resume_Analysis3.jpg))
+![Skills Extraction & Recommendation](https://github.com/Krutikagadge/AI-Resume-Matching-System/blob/master/UI_Images/Resume_Analysis3.jpg))
 
 ### 🔹 Course Recommendation
 ![Course Recommendation](https://github.com/Krutikagadge/AI-Resume-Matching-System/blob/master/UI_Images/Resume_Analysis4.jpg))

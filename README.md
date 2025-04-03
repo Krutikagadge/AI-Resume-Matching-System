@@ -112,4 +112,31 @@ AI-Resume-Matching-System/
 
 ---
 
+## 🖼️ Screenshots
+
+## Comapany Side
+
+### 🔹 Job Description Input
+![Job Description Input]([path/to/resume_upload_image.png](https://github.com/Krutikagadge/AI-Resume-Matching-System/blob/master/UI_Images/Job_Description1.jpg))
+
+### 🔹 Candidate Matching Results
+![Matching Results]([path/to/matching_results_image.png](https://github.com/Krutikagadge/AI-Resume-Matching-System/blob/master/UI_Images/Job_Description2.jpg))
+
+## Candidate Side
+
+### 🔹 Resume Upload
+![Resume_Upload]([path/to/job_description_input_image.png](https://github.com/Krutikagadge/AI-Resume-Matching-System/blob/master/UI_Images/Resume_Analysis1.jpg))
+
+### 🔹 Resume Analysis
+![Resume Analysis]([path/to/final_ranking_image.png](https://github.com/Krutikagadge/AI-Resume-Matching-System/blob/master/UI_Images/Resume_Analysis2.jpg))
+
+### 🔹 Skills Extraction & Recommendation
+![Skills Extraction & Recommendation]([https://github.com/Krutikagadge/AI-Resume-Matching-System/blob/master/UI_Images/Resume_Analysis3.jpg))
+
+### 🔹 Course Recommendation
+![Course Recommendation](https://github.com/Krutikagadge/AI-Resume-Matching-System/blob/master/UI_Images/Resume_Analysis4.jpg))
+
+
+---
+
 🚀 **Make hiring faster, smarter, and more efficient with AI-Resume-Matching-System!**

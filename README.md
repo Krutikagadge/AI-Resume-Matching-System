@@ -35,4 +35,81 @@ This AI-powered resume screening system automates candidate shortlisting, helpin
 
 ---
 
+## 📥 Installation
+
+### Prerequisites
+- Python 3.x
+- pip
+- Virtual environment (optional but recommended)
+
+### Setup Instructions
+
+1. **Clone the Repository:**
+   ```sh
+   git clone https://github.com/Krutikagadge/resume-analyzer.git
+   cd resume-analyzer
+   ```
+
+2. **Create and Activate Virtual Environment (Optional):**
+   ```sh
+   python -m venv venv
+   source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+   ```
+
+3. **Install Dependencies:**
+   ```sh
+   pip install -r requirements.txt
+   ```
+
+4. **Run the Application:**
+   ```sh
+   python main_code_file.py
+   ```
+
+---
+
+## 🚀 Usage
+
+1️⃣ Upload a resume (**PDF, DOCX, TXT**) via the interface or specify a file path.
+2️⃣ The system extracts **skills, education, and experience**.
+3️⃣ The classifier assigns a **job category** based on the extracted details.
+4️⃣ Recruiters provide a **job description**.
+5️⃣ The system ranks the **most suitable candidates** based on the similarity score.
+6️⃣ Recruiters can **download candidate resumes**.
+
+---
+
+## 📂 Project Structure
+```
+AI-Resume-Matching-System/
+│
+├── Resume_Analyze/
+│   ├── main.py
+│   ├── courses.py
+│   ├── extract_skills.py
+│   ├── requirements.txt
+│   ├── clf.pkl
+│   ├── encoder.pkl
+│   ├── tfidf.pkl
+│
+├── Resume_Matching/
+│
+├── Job_Matching/
+│   ├── Category.py
+│   ├── matching.py
+│   ├── api.py
+│ 
+└── README.md    
+```
+
+---
+
+## 🔮 Future Enhancements
+- Improve text extraction using advanced OCR techniques.
+- Expand dataset diversity to improve classification accuracy.
+- Implement multi-label classification for resumes spanning multiple job roles.
+- Enhance the scoring algorithm for better candidate ranking.
+
+---
+
 🚀 **Make hiring faster, smarter, and more efficient with AI-Resume-Matching-System!**

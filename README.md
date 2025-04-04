@@ -128,7 +128,7 @@ AI-Resume-Matching-System/
 ![Resume_Upload](https://github.com/Krutikagadge/AI-Resume-Matching-System/blob/master/UI_Images/Resume_Analysis1.jpg))
 
 ### 🔹 Resume Analysis
-![Resume Analysis](https://github.com/Krutikagadge/AI-Resume-Matching-System/blob/master/UI_Images/Resume_Analysis2.jpg))
+![Resume Analysis](https://github.com/Krutikagadge/AI-Resume-Matching-System/blob/master/UI_Images/Resume_Analysis2.png)))
 
 ### 🔹 Skills Extraction & Recommendation
 ![Skills Extraction & Recommendation](https://github.com/Krutikagadge/AI-Resume-Matching-System/blob/master/UI_Images/Resume_Analysis3.jpg))
